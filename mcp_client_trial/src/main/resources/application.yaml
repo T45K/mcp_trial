@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: mcp_trial
+  ai:
+    mcp:
+      client:
+        sse:
+          connections:
+            weather:
+              url: http://localhost:8081

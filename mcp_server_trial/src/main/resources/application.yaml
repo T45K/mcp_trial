@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mcp_server_trial
+  ai:
+    mcp:
+      server:
+        name: weather-mcp-server
+server:
+  port: 8081
